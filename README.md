@@ -22,5 +22,5 @@ options:
                         to filter from the results.
 
 # Run example
-python3 aws_sensitive_permissions.py -p profile-name [--known-accounts "123123123123,456456456456"]
+python3 aws_find_external_accounts.py -p profile-name [--known-accounts "123123123123,456456456456"]
 ```
